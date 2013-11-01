@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="dxy-weixin"
+  id="myeclipse.1373341412313"
+  context-root="/dxy-weixin"
+  j2ee-spec="5.0"
+  archive="dxy-weixin.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
